@@ -1,8 +1,8 @@
-# EX NO: Cloud-account-set-up-and-services
+# EX NO: 1 Cloud-account-set-up-and-services
 ~~~
-Name :CHARUMATHI A
+Name : Manoj R
 
-Reg no: 212224230045
+Reg no: 212224230152
 ~~~
 # Aim:
 To create an cloud account in AWS and to explore all of its services.
@@ -86,6 +86,7 @@ To sign in with your IAM Identity Center user, use the sign-in URL that was sent
 
 # Result:
 Thus an account was created in AWS platform and all the services were explored.
+
 
 
 
